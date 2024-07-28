@@ -219,3 +219,12 @@
     margin-bottom: 30px;
     color: #ff7200;
 }
+
+.icosd{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.icosd a{
+    font-size: 30px;
+}
